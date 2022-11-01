@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @bezalel199525
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning react and next js
+- I'm react and next js developer
+- 🌱 I’m currently learning AWS and redis
 - 💞️ I’m looking to collaborate on react and next js projects
 - 📫 How to reach me ... +251962068985
 
