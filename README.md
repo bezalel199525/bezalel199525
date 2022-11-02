@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @bezalel199525
 - 👀 I’m interested in web development
+- code (HTML,CSS,JAVASCRIPT,TYPESCRIPT,PYTHON)
+- Tools (REACT,NEXT JS,SANITY,REDUX,AWS,TAILWIND CSS)
 - I'm react and next js developer
 - 🌱 I’m currently learning AWS and redis
 - 💞️ I’m looking to collaborate on react and next js projects
